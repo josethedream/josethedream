@@ -61,9 +61,9 @@ Focus: Network Security & Digital Forensics
 ---
 
 ## Contact
-- Email: your.email@email.com  
+- Email: jamerced@utica.edu.com  
 - LinkedIn: <a href="https://www.linkedin.com/in/jose-mercedes-14aa8b385/">linkedin.com/in/jose-mercedes-14aa8b385</a>  
-- GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a>
+- GitHub: <a href="https://github.com/josethedream">github.com/josethedream</a>
 
 ---
 
